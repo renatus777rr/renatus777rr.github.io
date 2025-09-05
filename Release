@@ -1,0 +1,7 @@
+Origin: renatus777rrepo
+Label: Renatus777RRepo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: renatus777rr's tweak repo
