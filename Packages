@@ -1,0 +1,12 @@
+Package: com.saurik.afc2d
+Name: AFC2 Tweak
+Version: 1.2
+Architecture: iphoneos-arm
+Description: A tweak that makes your lockscreen awesome.
+Maintainer: Saurik <saurik@saurik.com>
+Author: Saurik
+Section: System
+Filename: debs/com.saurik.afc2d_1.2_iphoneos-arm.deb
+Size: 18125
+MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
+
